@@ -1,0 +1,166 @@
+I want you to recreate the website exactly like
+https://pcte.edu.in/
+
+🔒 VERY IMPORTANT
+
+The design, layout, colors, spacing, fonts, hover effects, and animations must match the original website as closely as possible
+
+This is for educational/demo purposes only
+
+🧱 Tech Stack (STRICT)
+
+Vite + React
+
+JavaScript (JSX only) → ❌ NO TS / ❌ NO TSX
+
+CSS / CSS Modules / Tailwind (choose what best matches the original)
+
+React Router for navigation
+
+🎨 Design Requirements
+
+Header, navbar, dropdown menus, footer → pixel-close to original
+
+Same color palette as pcte.edu.in
+
+Same font styles and sizes (use Google Fonts if needed)
+
+Same hover effects, dropdown behavior, and transitions
+
+Fully responsive (desktop, tablet, mobile)
+
+🧭 Navigation Structure
+
+Recreate the full navbar with working dropdowns and routes:
+
+About (Dropdown)
+
+About Us
+
+NIRF
+
+IKS
+
+ICMR
+
+Why PCTE?
+
+Trust Members
+
+Advisory Board
+
+Approval Letters
+
+Committees
+
+Grievance Addressal Form
+
+Mandatory Disclosure
+
+E-Cell
+
+Transportation
+
+Hostels & Guest House
+
+International Collaborations
+
+Directions
+
+Courses (Multi-Level Dropdown)
+
+Engineering
+
+Computer Science Engineering
+
+AI & ML
+
+Mechanical Engineering
+
+Civil Engineering
+
+UG Courses
+
+BCA
+
+BBA
+
+B.Com (Hons)
+
+B.Pharmacy
+
+Fashion Design
+
+B.Sc. Medical Lab Sciences
+
+Tourism & Travel Management
+
+Journalism & Mass Communication
+
+Hotel Management & Catering Technology
+
+PG Courses
+
+MBA
+
+MBA – International Business
+
+Diploma Courses
+
+Diploma in Pharmacy
+
+Life at PCTE (Dropdown)
+
+Glorious Stars at PCTE
+
+Dr. DR Singh Memorial British Parliamentary Debate
+
+Teaching Abroad – International Teaching Jobs
+
+Admission (Dropdown)
+
+Apply Now
+
+Pay Now
+
+Scholarship Scheme
+
+🗂 Project Structure (MANDATORY)
+src/
+├── components/
+├── pages/
+├── layouts/
+├── assets/
+├── App.jsx
+├── main.jsx
+
+
+Each page must exist and load correctly
+
+Use reusable components for Navbar, Footer, Dropdowns
+
+⚙️ Functionality
+
+All routes must work using react-router-dom
+
+Dropdown menus must work on hover (desktop) and click (mobile)
+
+Placeholder content is acceptable for now
+
+🚫 Restrictions
+
+❌ Do NOT use TypeScript or TSX
+
+❌ Do NOT change the design style
+
+❌ Do NOT remove any menu items
+
+✅ Final Output
+
+A fully working Vite + React (JSX) project
+
+Website visually matches pcte.edu.in
+
+Clean, readable, production-ready code
+
+Start by setting up the Vite project, then build the layout section-by-section.
